@@ -1,2 +1,2 @@
 # coursera-HTML-CSS-Javascript
-Curo para web development
+Curso para web development
